@@ -53,6 +53,7 @@ import php from '../app/assets/svg/skills/php.svg';
 import picsart from '../app/assets/svg/skills/picsart.svg';
 import postgresql from '../app/assets/svg/skills/postgresql.svg';
 import premierepro from '../app/assets/svg/skills/premierepro.svg';
+import prisma from '../app/assets/svg/skills/prisma.svg';
 import python from '../app/assets/svg/skills/python.svg';
 import pytorch from '../app/assets/svg/skills/pytorch.svg';
 import react from '../app/assets/svg/skills/react.svg';
@@ -161,6 +162,8 @@ export const skillsImage = (skill) => {
       return matlab;
     case 'php':
       return php;
+    case 'prisma':
+      return prisma;
     case 'python':
       return python;
     case 'ruby':

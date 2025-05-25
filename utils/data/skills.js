@@ -86,6 +86,7 @@ export const skillsData = [
   VuetifyJS
   MySQL
   PostgreSQL
+  Prisma
   AWS
   Firebase
   Blender
