@@ -33,7 +33,6 @@ export default async function Home() {
       <Skills />
       <Projects />
       <Education />
-      <Blog blogs={blogs} />
       <ContactSection />
     </div>
   )

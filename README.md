@@ -151,10 +151,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Fuca Bruno",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
+  description: "My name is Fuca Bruno....",
   email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
@@ -232,7 +232,6 @@ To display your blog posts from dev.to on the portfolio:
 
 1. Set your `devUsername` in the `utils/data.js` file to your dev.to username.
 2. The application will automatically fetch your latest blog posts and display them in the **BLOG** section.
-3. Ensure your blogs are publicly visible on dev.to, and the application will fetch them using the dev.to API.
 
 ---
 
