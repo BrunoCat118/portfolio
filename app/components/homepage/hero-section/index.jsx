@@ -131,7 +131,47 @@ function HeroSection() {
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">HTML</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">CSS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JavaScript</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Python</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">C#</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">C++</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">C</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">SQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">styled-components</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Tailwind</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Windows</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Unity</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PHP</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Three.js</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Figma</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Flutter</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Angular</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Vue</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">etc</span>
+                <span className="text-gray-400">{"' ]"}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
@@ -171,7 +211,7 @@ function HeroSection() {
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
                 <span className="mr-2 text-white">skills.length</span>
                 <span className="mr-2 text-amber-300">&gt;=</span>
-                <span className="text-orange-400">5</span>
+                <span className="text-orange-400">20</span>
               </div>
               <div><span className="ml-8 lg:ml-16 mr-2 text-gray-400">{`);`}</span></div>
               <div><span className="ml-4 lg:ml-8 text-gray-400">{`};`}</span></div>
