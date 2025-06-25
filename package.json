@@ -9,6 +9,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "18.x"
+  },
+  "packageManager": "npm@10.9.0",
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
     "@next/third-parties": "15.1.1",
