@@ -8,13 +8,13 @@ export const experiences = [
   {
     id: 2,
     title: "Senior Software Engineer",
-    company: "Intern at DRDO CABS",
+    company: "Lizard Global",
     duration: "(Jun 2019 - Jan 2022)"
   },
   {
     id: 3,
     title: "Junior Software Engineer",
-    company: "Code and build something in everyday.",
+    company: "Intellectsoft",
     duration: "(Jan 2014 - Jun 2019)"
   },
   {

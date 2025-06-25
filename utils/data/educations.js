@@ -13,7 +13,7 @@ export const educations = [
   },
   {
     id: 3,
-    title: "Bachelor Degree",
+    title: "Master Degree",
     duration: "2012 - 2016",
     institution: "University of Parma",
   }
