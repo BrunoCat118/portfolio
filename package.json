@@ -22,7 +22,8 @@
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^4.11.0",
     "react-toastify": "^10.0.4",
-    "sharp": "^0.33.5"
+    "sharp": "^0.33.5",
+    "@netlify/next": "^1.5.4"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^5.11.4",
