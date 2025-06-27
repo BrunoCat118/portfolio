@@ -1,6 +1,9 @@
-const { withNetlify } = require('@netlify/plugin-nextjs');
-
-module.exports = withNetlify({
-  // Your existing Next.js config
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   reactStrictMode: true,
-});
+};
+
+module.exports = async () => {
+  const { withNetlify } = await import('@netlify/plugin-nextjs');
+  return withNetlify(nextConfig);
+};
