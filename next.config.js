@@ -4,6 +4,6 @@ const nextConfig = {
 };
 
 module.exports = async () => {
-  const { withNetlify } = await import('@netlify/plugin-nextjs');
-  return withNetlify(nextConfig);
+  const netlifyPlugin = await import('@netlify/plugin-nextjs');
+  return netlifyPlugin.default(nextConfig);
 };
