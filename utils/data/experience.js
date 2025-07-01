@@ -1,26 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Senior Software Engineer',
+    title: 'Senior Full Stack Developer',
     company: "ABC Technologies",
-    duration: "(Jan 2022 - Present)"
+    duration: "(Jan 2020 - Jun 2025)"
   },
   {
     id: 2,
-    title: "Senior Software Engineer",
+    title: "Senior Full Stack Developer",
     company: "Lizard Global",
-    duration: "(Jun 2019 - Jan 2022)"
+    duration: "(Jun 2017 - Dec 2019)"
   },
   {
     id: 3,
-    title: "Junior Software Engineer",
-    company: "Intellectsoft",
-    duration: "(Jan 2014 - Jun 2019)"
-  },
-  {
-    id: 4,
     title: "Full Stack Developer",
     company: "Freelance",
-    duration: "(Jun 2012 - Jan 2014)"
+    duration: "(Oct 2015 - Dec 2016)"
   },
 ]

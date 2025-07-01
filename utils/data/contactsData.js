@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'fucabruno118@gmail.com',
+    email: 'johntitan1999@gmail.com ',
     phone: '+8801608797655',
     address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
     github: 'https://github.com/BrunoCat118',

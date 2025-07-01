@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Senior Software Engineer",
-    duration: "2020 - Present",
+    title: "Senior Full Stack Developer",
+    duration: "2021 - Present",
     institution: "Hackerrank",
   },
   {
     id: 2,
-    title: "Junior Software Engineer",
-    duration: "2017 - 2019",
+    title: "Junior Full Stack Developer",
+    duration: "2018 - 2020",
     institution: "Hackerrank",
   },
   {
     id: 3,
     title: "Master Degree",
-    duration: "2012 - 2016",
-    institution: "University of Parma",
+    duration: "2013 - 2017",
+    institution: "James Cook University Singapore ",
   }
 ]
